@@ -19,7 +19,7 @@
  |                                                             |
  |   what if your founder world works out?          /\_/\     |
  |                                                 ( ◕ ✧ ◕ )   |
- |   fifteen free tools below ↓                    (  =^=  )   |
+ |   sixteen free tools below ↓                    (  =^=  )   |
  |                                                  Lucky ♡    |
  `============================================================='
 </pre>
@@ -69,6 +69,7 @@ This page is where I give the small things away.
 | [pocket-coven-kit](https://github.com/RochaStone/pocket-coven-kit) | Build your own witchy pocket world. Name your coven, theme your rooms, pick your familiars and outfits, invite your people. | Claude Code builds it with you |
 | [merwitch-mode](https://github.com/RochaStone/merwitch-mode) | Claude Code looks and sounds like a sacred tool. Theme, status line, witchy state words, a sound on done. | Claude Code |
 | [desktop-core](https://github.com/RochaStone/desktop-core) | A link-in-bio that is a 2003 desktop. Folders are offers, sticky notes are testimonials, the clock books a call. | Any browser |
+| [desktop-altar](https://github.com/RochaStone/desktop-altar) | Turn your desktop into an altar. You decide what sits on it. Candles flicker, tonight's moon is real. | Any computer · Claude Code · Claude Cowork |
 | [handset](https://github.com/RochaStone/handset) | Any newsletter becomes a playable phone page with an earned Snake. | Any browser |
 | [content-cartridge](https://github.com/RochaStone/content-cartridge) | A Game Boy in the browser. Insert a cartridge, press START, get the week. | Claude Code · Claude Cowork |
 | [diagnostic-quiz](https://github.com/RochaStone/diagnostic-quiz) | A scored quiz with email results and lead capture, on your own accounts, in an afternoon. | Claude Code builds it with you |
