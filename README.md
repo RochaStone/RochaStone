@@ -45,7 +45,7 @@ I have been building and scaling brands and communities my entire career. Twenty
 
 The future doesn't belong to founders who become more like AI. It belongs to the ones who leverage AI to amplify more fully themselves.
 
-New to AI? Start with Fluency, 1:1 with me. Running your own thing? Build your founder world.
+Exiting the matrix? Pivot with AI Fluency, 1:1 with me. Running your own thing? Build your founder world.
 
 This page is where I give the small things away.
 
@@ -88,7 +88,7 @@ They all read one `style.json`. Make it once, with your palette, your fonts, you
 I work with female founders who are done doing everything themselves.
 
 - **Start with the audit.** [thrivingera.com/audit](https://thrivingera.com/audit). Sixteen questions. You find out exactly where your business is still running on you.
-- **Claude AI Fluency, 1:1.** For the woman who is new to AI, or still in the job and planning her exit. Six weeks, one to one, your own tools. [Book an exploratory call](https://calendly.com/rochelle-thrivingera/exploratory-call).
+- **Exiting the matrix? Pivot with AI Fluency, 1:1 with me.** Six weeks, one to one, your own tools, no jargon. [Book an exploratory call](https://calendly.com/rochelle-thrivingera/exploratory-call).
 - **Build your founder world.** Your voice captured once and installed as the intelligence that runs your content, sales, strategy and visibility, inside the Conscious Founder Operating System. [founders.thrivingera.com](https://founders.thrivingera.com).
 - **Builds.** Apps, booking engines, member areas, content systems and client experiences, designed and shipped for the founders I work with.
 - **Book an exploratory call.** [calendly.com/rochelle-thrivingera/exploratory-call](https://calendly.com/rochelle-thrivingera/exploratory-call). It is where we decide if we work together.
