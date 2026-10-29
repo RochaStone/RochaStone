@@ -105,7 +105,7 @@ Sign my guestbook: [say hi in the issues](https://github.com/RochaStone/RochaSto
 
 Rocha \
 Brand Alchemist & AI Architect \
-Author of *Brand Alchemy in the Thriving Era* \
+Author of *Brand Alchemy in the Thriving Era* and *Thriving in Transformational Times* \
 Creator of [Conscious Founder Operating System](https://founders.thrivingera.com) \
 Founder, [Thriving Era Studio](https://thrivingera.com)
 
